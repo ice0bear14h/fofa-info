@@ -63,6 +63,6 @@ fofa.info批量API爬取
 
 
 
-![image-20220731115111279](F:\Git\ice0bear14h\fofa-info\image-20220731115111279.png)
+![image-20220731115111279](https://github.com/ice0bear14h/fofa-info/blob/master/image-20220731115111279.png)
 
-![image-20220731115423358](F:\Git\ice0bear14h\fofa-info\image-20220731115423358.png)
+![image-20220731115423358](https://github.com/ice0bear14h/fofa-info/blob/master/image-20220731115423358.png)
